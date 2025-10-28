@@ -27,7 +27,7 @@ export default function Home() {
           <meta name="twitter:image:alt" content="Backend Engineer" />
           <meta name="twitter:description" content="Welcome to my portfolio! I am a software engineer who builds accessible, inclusive products and digital experiences for the web." />
           <meta name="twitter:image" content="https://devismael.com/images/Thumbnail.jpeg" />
-          <link rel="shortcut icon" href="/favicon/apple-touch-icon.png" />
+          <link rel="shortcut icon" href="/favicon/apple-touch-icon.jpg" />
           <link
             rel="favicon-16x16"
             type="image/png"
