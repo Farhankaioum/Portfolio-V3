@@ -63,17 +63,7 @@ const About = () => {
           >
             Substack
           </a>{" "}
-          platform. Outside of work, I&apos;m an avid chess player—feel free to
-          check out my profile on Lichess:{" "}
-          <a
-            className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
-            href="https://lichess.org/@/ismailhosen"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            lichess.org/@/ismailhosen
-          </a>
-          .{" "}
+          platform. Outside of work, I&apos;m an athelate, love to play Footbal and Badminton
         </p>{" "}
         <p className="mb-4 text-justify">
           {" "}
