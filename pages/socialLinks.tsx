@@ -22,7 +22,7 @@ const socialAccounts = [
   },
   {
     title: "blog",
-    link: "https://devismael.substack.com/",
+    link: "https://mdkeiuom.substack.com/",
     icon: <SiSubstack />,
     delay: 1,
   }

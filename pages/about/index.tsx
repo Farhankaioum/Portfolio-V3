@@ -57,7 +57,7 @@ const About = () => {
           and{" "}
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
-            href="https://devismael.substack.com/"
+            href="https://mdkeiuom.substack.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
