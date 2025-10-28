@@ -31,8 +31,8 @@ const actionButtons = [
     ),
   },
   {
-    href: "/resume/Resume_Of_Ismael_Miah.pdf",
-    label: "Download CV",
+    href: "/resume/MdKeiuomResume.pdf",
+    label: "Download Resume",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
