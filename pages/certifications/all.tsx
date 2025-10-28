@@ -85,7 +85,7 @@ const AllCertifications = () => {
                   clipRule="evenodd"
                 ></path>
               </svg>
-              Ismael Miah
+              Md Keiuom Miah
             </Link>
 
             <h1 className="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl">

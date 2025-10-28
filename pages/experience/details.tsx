@@ -363,7 +363,7 @@ const ExperienceDetails = () => {
                   clipRule="evenodd"
                 ></path>
               </svg>
-              Ismael Miah
+              Md Keiuom Miah
             </Link>
 
             <nav className="sticky top-8 mt-12" aria-label="Company navigation">

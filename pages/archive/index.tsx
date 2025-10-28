@@ -39,7 +39,7 @@ const projects = [
   {
     year: "2021",
     name: "StrataSpot",
-    company: "AIT", 
+    company: "AIT",
     url: "https://www.strataspot.com.au/",
     tech: ["Asp .Net Framework", "MSSQL", "JavaScript", "JQuery"],
   },
@@ -94,7 +94,7 @@ const Archive = () => {
                 clipRule="evenodd"
               ></path>
             </svg>
-            Ismael Miah
+            Md Keiuom Miah
           </Link>
           <h1 className="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl">
             All Projects
