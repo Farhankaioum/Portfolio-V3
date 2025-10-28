@@ -59,7 +59,7 @@ const projects = [
     year: "2020",
     name: "Leave Management",
     company: "Personal",
-    url: 'https://github.com/ismaelmiah/Leave-Management',
+    url: 'https://github.com/farhankaioum/Leave-Management',
     tech: ["Asp .Net Core", "MSSQL", "JavaScript", "JQuery"],
   },
   {

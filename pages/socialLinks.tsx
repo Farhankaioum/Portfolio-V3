@@ -10,7 +10,7 @@ import { TbBrandGithub } from "react-icons/tb";
 const socialAccounts = [
   {
     title: "github",
-    link: "https://github.com/ismaelmiah",
+    link: "https://github.com/farhankaioum",
     icon: <TbBrandGithub />,
     delay: 0.8,
   },
