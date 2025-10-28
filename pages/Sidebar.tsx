@@ -13,7 +13,7 @@ const navItems = [
 
 const actionButtons = [
   {
-    href: "https://devismael.substack.com/",
+    href: "https://mdkeiuom.substack.com/",
     label: "Blog",
     icon: (
       <svg
