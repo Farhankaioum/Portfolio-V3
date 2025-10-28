@@ -16,7 +16,7 @@ const socialAccounts = [
   },
   {
     title: "linkedin",
-    link: "https://www.linkedin.com/in/ismaelmiah/",
+    link: "www.linkedin.com/in/md-keiuom-miah",
     icon: <SlSocialLinkedin />,
     delay: 0.9,
   },

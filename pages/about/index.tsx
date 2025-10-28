@@ -48,7 +48,7 @@ const About = () => {
           I love sharing web development insights with the Dev Community on{" "}
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
-            href="https://www.linkedin.com/in/ismaelmiah/"
+            href="www.linkedin.com/in/md-keiuom-miah"
             target="_blank"
             rel="noopener noreferrer"
           >
