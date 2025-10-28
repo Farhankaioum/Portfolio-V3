@@ -63,7 +63,7 @@ const Header = () => {
         <h2 className="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
           Software Engineer
         </h2>
-        <i>London, United Kingdom</i>
+        <i>Sydney, Australia</i>
         <p className="mt-2 lg:max-w-sm leading-relaxed text-justify">
           I build accessible, inclusive products and digital experiences for the
           web. I enjoy taking on new challenges and collaborating with other

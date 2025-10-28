@@ -41,7 +41,7 @@ const About = () => {
           >
             Hogarth
           </a>{" "}
-          in early 2024, and after that, I moved to London, United Kingdom, for
+          in early 2024, and after that, I moved to Sydney, Australia, for
           my studies. Later, I joined AIT as a Part-Time Software Engineer.
         </p>
         <p className="mb-4">
