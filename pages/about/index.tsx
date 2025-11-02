@@ -12,7 +12,7 @@ const About = () => {
       </div>
       <div>
         <p className="mb-4 text-justify">
-          I am a passionate Software Engineer currently pursuing my Master's degree in Sydney, Australia, with expected graduation in June 2026. My professional journey began at {" "}
+          I am a passionate Software Engineer with 4+ years of experience. Currently, pursuing my Master's degree in Sydney, Australia, with expected graduation in June 2026. My professional journey began at {" "}
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
             href="https://www.ait.inc/"
@@ -43,7 +43,7 @@ const About = () => {
           >
             Stream Tech Ltd,
           </a>{" "}
-          working directly with a <strong>USA-based startup</strong>. After contributing to projects at {" "}
+          working directly with a <b className="font-medium text-slate-200">USA-based startup</b>. After contributing to projects at {" "}
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
             href="https://www.hogarth.com/"
@@ -98,22 +98,37 @@ const About = () => {
           <ul className="mt-2 flex flex-wrap" aria-label="Technologies used">
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                Python
-              </div>
-            </li>
-            <li className="mr-1.5 mt-2">
-              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                 C#
               </div>
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                Asp .NET
+                Python
               </div>
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                .NET Web API
+                Dot NET (Framework, Core)
+              </div>
+            </li>
+            <li className="mr-1.5 mt-2">
+              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                Web API
+              </div>
+            </li>
+            <li className="mr-1.5 mt-2">
+              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                RESTful APIs
+              </div>
+            </li>
+            <li className="mr-1.5 mt-2">
+              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                GraphQL with Hot Chocolate
+              </div>
+            </li>
+            <li className="mr-1.5 mt-2">
+              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                gRPC
               </div>
             </li>
             <li className="mr-1.5 mt-2">
@@ -123,7 +138,12 @@ const About = () => {
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                Blazor
+                AWS
+              </div>
+            </li>
+            <li className="mr-1.5 mt-2">
+              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                Angular
               </div>
             </li>
             <li className="mr-1.5 mt-2">
@@ -153,17 +173,7 @@ const About = () => {
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                AWS
-              </div>
-            </li>
-            <li className="mr-1.5 mt-2">
-              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                 Git
-              </div>
-            </li>
-            <li className="mr-1.5 mt-2">
-              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                RESTful APIs
               </div>
             </li>
             <li className="mr-1.5 mt-2">
@@ -173,12 +183,17 @@ const About = () => {
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                Kubernetes (Basic)
+              </div>
+            </li>
+            <li className="mr-1.5 mt-2">
+              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                 Microservices
               </div>
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                Kafka
+                RabbitMQ
               </div>
             </li>
             <li className="mr-1.5 mt-2">
@@ -193,12 +208,17 @@ const About = () => {
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                Unit Testing
+                Testing (Unit, BDD, Integration)
               </div>
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                 AI-Assisted Development
+              </div>
+            </li>
+            <li className="mr-1.5 mt-2">
+              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                LLM
               </div>
             </li>
             <li className="mr-1.5 mt-2">
