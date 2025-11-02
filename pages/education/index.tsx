@@ -22,14 +22,14 @@ const Education = () => {
                   <h3>
                     <a
                       className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
-                      href="https://www.beds.ac.uk/"
+                      href="https://koi.edu.au/"
                       target="_blank"
                       rel="noreferrer"
-                      aria-label="Apex4u"
+                      aria-label="KOI"
                     >
                       <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                       <span>
-                        University of Bedfordshire
+                        King's Own Institute
                         <span className="inline-block">
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
@@ -49,34 +49,34 @@ const Education = () => {
                     </a>
                   </h3>
                   <header aria-label="september 2024 to present">
-                    September 2025
+                    July 2024
                   </header>
                   <header aria-label="september 2024 to present">
-                    <b>Master&apos;s in Computer Networking (Msc)</b>
+                    <b>Master&apos;s in Information Technology</b>
                   </header>
                   <ul className="mt-2 text-sm leading-normal">
-                      <li>
-                        - Graduate with Distinction.
-                      </li>
-                      <li>
-                        - Learned foundational networking concepts and security fundamentals.
-                      </li>
-                      <li>
-                        - Developed skills in network planning and troubleshooting.
-                      </li>
-                      <li>
-                        - Acquired knowledge in network design and implementation.
-                      </li>
-                      <li>
-                        - Gained expertise in network management and administration.
-                      </li>
-                      <li>
-                        - Gained proficiency in Linux operations and command-line interface.
-                      </li>
-                      <li>
-                        - Learned about cloud computing and virtualization.
-                      </li>
-                    </ul>
+                    <li>
+                      - I will be graduate in July, 2026.
+                    </li>
+                    <li>
+                      - Learned foundational networking concepts and security fundamentals.
+                    </li>
+                    <li>
+                      - Developed skills in network planning and troubleshooting.
+                    </li>
+                    <li>
+                      - Acquired knowledge in Modern Software design and principle.
+                    </li>
+                    <li>
+                      - Gained expertise in Data Visualization.
+                    </li>
+                    <li>
+                      - Gained proficiency in Linux operations and command-line interface.
+                    </li>
+                    <li>
+                      - Learned about cloud computing and virtualization.
+                    </li>
+                  </ul>
                 </div>
                 <Image
                   alt=""
@@ -87,7 +87,7 @@ const Education = () => {
                   data-nimg="1"
                   className="rounded transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1"
                   style={{ color: "transparent" }}
-                  src={"/images/educations/bedfordshire.webp"}
+                  src={"/images/educations/koi.png"}
                 />
               </div>
             </li>
@@ -130,36 +130,36 @@ const Education = () => {
                   <header aria-label="january 2017 to july 2021">
                     <b>Bachelor&apos; in Software Engineering (BSc)</b>
                   </header>
-                    <ul className="mt-2 text-sm leading-normal">
-                      <li>
-                        - Graduated with a CGPA of 3.82 out of 4.00
-                      </li>
-                      <li>
-                        - Participated in competitive programming contests.
-                      </li>
-                      <li>
-                        - Mentored first-year students.
-                      </li>
-                      <li>
-                        - Developed problem-solving skills in C++, Java, and
-                        Python.
-                      </li>
-                      <li>
-                        - Proficient in OOP, data structures, and algorithms.
-                      </li>
-                      <li>
-                        - Knowledgeable in SDLC and web development.
-                      </li>
-                      <li>
-                        - Experienced in DBMS (Database) and version control using Git.
-                      </li>
-                      <li>
-                        - Acquired skills in software testing.
-                      </li>
-                      <li>
-                        - Honed communication and teamwork abilities.
-                      </li>
-                    </ul>
+                  <ul className="mt-2 text-sm leading-normal">
+                    <li>
+                      - Graduated with a CGPA of 3.65 out of 4.00
+                    </li>
+                    <li>
+                      - Participated in competitive programming contests.
+                    </li>
+                    <li>
+                      - Mentored first-year students.
+                    </li>
+                    <li>
+                      - Developed problem-solving skills in C++, Java, and
+                      Python.
+                    </li>
+                    <li>
+                      - Proficient in OOP, data structures, and algorithms.
+                    </li>
+                    <li>
+                      - Knowledgeable in SDLC and web development.
+                    </li>
+                    <li>
+                      - Experienced in DBMS (Database) and version control using Git.
+                    </li>
+                    <li>
+                      - Acquired skills in software testing.
+                    </li>
+                    <li>
+                      - Honed communication and teamwork abilities.
+                    </li>
+                  </ul>
                 </div>
                 <Image
                   alt=""
