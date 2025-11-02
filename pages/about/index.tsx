@@ -7,32 +7,43 @@ const About = () => {
     >
       <div className="sticky top-0 z-20 -mx-6 mb-4 w-screen bg-slate-900/75 px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
         <h2 className="text-sm font-bold uppercase tracking-widest text-slate-200 lg:sr-only">
-          About
+          My Journey in Tech & Beyond
         </h2>
       </div>
       <div>
         <p className="mb-4 text-justify">
-          I started my professional career at{" "}
+          I am a passionate Software Engineer currently pursuing my Master's degree in Sydney, Australia, with expected graduation in June 2026. My professional journey began at {" "}
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
             href="https://www.ait.inc/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            AIT.
+            AIT&nbsp;
           </a>
-          , tackling real-world problems with technology. Alongside my job, I
-          completed a remote internship at {""}
+          where I quickly progressed from Software Engineer Intern to a full-time Junior Software Engineer, tackling real-world problems while concurrently completing a remote internship at  {""}
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
             href="https://devskill.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            DevSkill
+            DevSkill&nbsp;
           </a>
-          , which was a pivotal experience that enhanced my skills during my
-          first year at AIT. Lastly, I joined{" "}
+          to develop my skills further.
+        </p>
+
+        <p className="mb-4">
+          I further expanded my experience as an Associate Software Engineer at {" "}
+          <a
+            className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
+            href="https://streamstech.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Stream Tech Ltd,
+          </a>{" "}
+          working directly with a <strong>USA-based startup</strong>. After contributing to projects at {" "}
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
             href="https://www.hogarth.com/"
@@ -41,11 +52,19 @@ const About = () => {
           >
             Hogarth
           </a>{" "}
-          in early 2024, and after that, I moved to Sydney, Australia, for
-          my studies. Later, I joined AIT as a Part-Time Software Engineer.
-        </p>
+          in early 2024, I relocated to Sydney to advance my education while continuing professional work as a Contractual Freelance Full Stack Software Engineer with {" "}
+          <a
+            className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
+            href="https://www.airpaz.com/en/hotel/ausis-accommodation-services.5377238"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Ausis Accommodation Ltd.
+          </a>
+        </p>{" "}
+
         <p className="mb-4">
-          I love sharing web development insights with the Dev Community on{" "}
+          I actively engage with the developer community by sharing software engineering insights on{" "}
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
             href="https://linkedin.com/in/md-keiuom-miah"
@@ -61,14 +80,13 @@ const About = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Substack
+            Substack.
           </a>{" "}
-          platform. Outside of work, I&apos;m an athelate, love to play Footbal and Badminton
+          Outside of technology, I'm an athlete who enjoys football and badminton.
         </p>{" "}
         <p className="mb-4 text-justify">
           {" "}
-          Open to <b className="font-medium text-slate-200">part-time</b> or <b className="font-medium text-slate-200">contract</b> roles where I can make a
-          difference, grow, and keep evolving.
+          I am currently open to <b className="font-medium text-slate-200">part-time</b> or <b className="font-medium text-slate-200">contract</b> roles where I can make meaningful contributions and continue growing professionally. I will be available for full-time positions starting July 2026.
         </p>
       </div>
 
