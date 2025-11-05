@@ -76,7 +76,7 @@ const experiences: ExperienceItem[] = [
     period: "January 2022 — February 2023",
     company: "Streams Tech Ltd",
     logo: "/images/experiences/streamstech.png",
-    role: "Software Engineer",
+    role: "Associate Software Engineer",
     companyUrl: "https://streamstech.com/",
     description: [
       "<b>Led client communication and requirements analysis </b> for key projects, managing project timelines, and mentoring junior developers, resulting in a 25% reduction in feature delivery time.",

@@ -98,15 +98,15 @@ const experiences: DetailedExperience[] = [
     ],
   },
   {
-    period: "May 2022 — March 2024",
-    company: "AIT",
-    logo: "/images/experiences/ait.jpg",
-    role: "Software Engineer - II",
+    period: "Febraury 2022 — March 2023",
+    company: "Streams Tech Ltd",
+    logo: "/images/experiences/streamstech.png",
+    role: "Associate Software Engineer",
     companyUrl: "https://www.ait.inc/",
     description: [
-      "Led client communication and requirements analysis for key projects, managing project timelines, and mentoring junior developers.",
-      "Core Developer of RLDataCoach: Developed a coaching algorithm that analyzes Rocket League gameplay.",
-      "E-commerce Platform Optimization and Social Media Platform Enhancement",
+      "Led client communication and requirements analysis for key projects, managing project timelines, and mentoring junior developers, resulting in a 25% reduction in feature delivery time.",
+      "Designed and maintained a finance and project delivery tool, it's help to identify, unlock, and capitalize on profit levers across your running and upcoming projects for USA marketplace. ",
+      "Conducted research and R&D on various technological topics, preparing detailed reports for clients and the team."
     ],
     responsibilities: [
       "Led development teams and managed project timelines",
@@ -120,37 +120,86 @@ const experiences: DetailedExperience[] = [
     ],
     challenges: [
       {
-        title: "Real-time Data Processing",
+        title: "Huge Data Processing",
         description:
-          "Processing large volumes of game replay data in real-time for the RLDataCoach project.",
+          "Processing large volumes of finalcial data in dashboard area of this project.",
         solution:
-          "Implemented parallel processing and optimized algorithms, achieving 60+ events detection per replay.",
+          "Use stored proceduce and write optimized query to load data faster and in frontend use AG Grid  Library for high performance",
       },
       {
-        title: "Scalability Issues",
+        title: "Faster Authencation",
         description:
-          "E-commerce platform faced scalability challenges during high-traffic campaigns.",
+          "Initially, we do not have enough time to develop authencation and authorization system from scratch",
         solution:
-          "Implemented AWS-based microservices architecture with auto-scaling capabilities.",
+          "We used AUTH0 for faster authencation integration and this is free for a certain level",
       },
     ],
     achievements: [
-      "Reduced feature delivery time by 25%",
+      "Using Auth0 reduced authencation feature delivery time by 95%",
       "Improved operational efficiency by 40%",
-      "Successfully processed over 20,000 game replays",
+      "Successfully processed over huge chunk of data for show forcasting summary",
       "Enhanced system performance through DB query optimization",
-      "Successfully mentored multiple junior developers",
+      "Successfully mentored multiple junior and intern developers",
       "Streamlined client communication and project delivery processes",
     ],
     technologies: [
       "C#",
-      "ASP .NET MVC",
-      "ASP .NET Core",
+      "",
+      "NET Core",
+      ".NET Core Web API",
+      "Redis",
+      "PostgreSQL",
+      "Angular",
+      "AG Grid",
+      "Auth0",
+      "AWS",
+      "Trello",
+      "Git & Github",
+    ],
+  },
+  {
+    period: "May 2021 — September 2021",
+    company: "AIT",
+    logo: "/images/experiences/ait.jpg",
+    role: "Software Engineer - II",
+    companyUrl: "https://www.ait.inc/",
+    description: [
+      "Designed and developed an ecommerce app for a leading company in Bangladesh using Flutter & Dart.",
+      "Conducted research and implemented new features to enhance user experience.",
+      "Improved UI by utilizing proper libraries and components, resulting in enhanced code quality.",
+    ],
+    responsibilities: [
+      "Design the App UI from the scratch",
+      "Integrate API for real data",
+      "Implement new features and improve existing features"
+    ],
+    challenges: [
+      {
+        title: "Huge Product Data Processing in HomePage",
+        description:
+          "Processing large volumes of homepage product data",
+        solution:
+          "Implemented caching machanism, use asynchronous call to multiple services apis, improverd loading time by more than 60% ",
+      },
+      {
+        title: "UI Issues",
+        description:
+          "E-commerce platform faced scalability challenges during high-traffic campaigns.",
+        solution:
+          "Use proper UI components & libraries, caching mechanism and appropriate data structure",
+      },
+    ],
+    achievements: [
+      "Faster app data loading",
+      "Design full UI for this app and integrate different API's with the app ",
+    ],
+    technologies: [
+      "Flutter",
+      "Dart",
       ".NET Web API",
       "Redis",
       "PostgreSQL",
       "MongoDB",
-      "ReactJS",
       "AWS",
       "Jira",
       "Bitbucket",
