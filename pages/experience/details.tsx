@@ -55,7 +55,7 @@ const experiences: DetailedExperience[] = [
     technologies: ["Python", "PHP", "Laravel", "Vue.js", "Mysql", "AWS"]
   },
   {
-    period: "March 2024 — August 2024",
+    period: "February 2023 — June 2024",
     company: "Hogarth",
     logo: "/images/experiences/hogarth.png",
     role: "Software Engineer",
@@ -67,23 +67,34 @@ const experiences: DetailedExperience[] = [
     responsibilities: [
       "Developed and maintained features of the marketing automation platform",
       "Optimized database queries and improved application performance",
+      "Removed session based authentication system and intruduced JWT based authentication system and improved system scalability and performance by 60%",
+      "Redesign entire dashboard system and removed all the premium packages to reduced the cost by 95%",
+      "Built CI/CI pipeline for new tenant setup, reducing setup times by 80%.",
       "Collaborated with cross-functional teams to implement new features",
+      "Lead the entire team for requirement analysis, technical analysis and task creation and distribution",
       "Conducted code reviews and maintained coding standards",
     ],
     challenges: [
     ],
     achievements: [
-      "Implemented automated testing that increased code coverage by 25%",
-      "Successfully migrated 3 major legacy components to modern architecture",
+      "Removed session based authentication system and intruduced JWT based authentication",
+      "Redesign entire dashboard system and removed all the premium packages",
+      "Built CI/CI pipeline for new tenant setup",
+      "Successfully migrated more than 3 major legacy components to modern architecture",
     ],
     technologies: [
       "C#",
-      "Asp .Net",
-      ".Net Web API",
-      "Redis",
+      "Dot Net",
+      "Web API",
+      "NodeJs",
       "MS SQL",
+      "Redis",
       "Angular JS",
+      "Angular",
       "AWS",
+      "Jenkins",
+      "Jira",
+      "Git & GitHub"
     ],
   },
   {
