@@ -50,40 +50,38 @@ interface ExperienceItem {
 
 const experiences: ExperienceItem[] = [
   {
-    period: "November 2024 — Present",
-    company: "AIT",
-    logo: "/images/experiences/ait.jpg",
-    role: "Software Engineer (Remote - Full Time)",
-    companyUrl: "https://ait.inc",
+    period: "December 2024 — Aug 2025",
+    company: "Ausis Accommodation Services",
+    logo: "/images/experiences/ausis.png",
+    role: "Freelance Full Stack Software Engineer (Contructual)",
+    companyUrl: "https://www.airpaz.com/en/hotel/ausis-accommodation-services.5377238",
     description: [
-      "Shipping new coaching features for RLDataCoach while refining the aws architecture—autoscaling seamlessly and <b>trimming cloud spend by 45%</b>."
+      "I was responsible for understanding business requirements, estimating tasks, and implementing features for their new website and automating manual task. I also deal with their existing products to support clients."
     ],
-    technologies: ["Python", "C#", "Asp .Net", ".Net Web API", "Redis", "PostgreSQL", "NextJS", "AWS"]
+    technologies: ["Python", "PHP", "Laravel", "Vue.js", "Mysql", "AWS"]
   },
   {
-    period: "March 2024 — August 2024",
+    period: "February 2023 — June 2024",
     company: "Hogarth",
     logo: "/images/experiences/hogarth.png",
     role: "Software Engineer",
     companyUrl: "https://www.hogarth.com/",
     description: [
-      "<b>Engineered scalable software solutions</b> for a marketing tool used by clients like Dell, Ford, Nestlé, and Colgate, improving workflow efficiency by 20%.",
+      "<b>Engineered scalable software solutions</b> for a marketing tool used by clients like Dell, Ford, Nestlé, and Colgate, improving workflow efficiency by more than 20%.",
       "Responsible for implementing enhancements and fixes while maintaining codebase consistency and <b>optimizing queries</b> for large production data."
     ],
-    technologies: ["C#", "Asp .Net", "Angular", ".Net Web API", "MS SQL", "Angular"]
+    technologies: ["C#", "Dot Net", "Angular", "Node.js", "Web API", "MSSQL", "Redis", "AWS", "Jenkins"]
   },
   {
-    period: "January 2023 — February 2024",
-    company: "AIT",
-    logo: "/images/experiences/ait.jpg",
+    period: "January 2022 — February 2023",
+    company: "Streams Tech Ltd",
+    logo: "/images/experiences/streamstech.png",
     role: "Software Engineer",
-    companyUrl: "https://ait.inc",
+    companyUrl: "https://streamstech.com/",
     description: [
       "<b>Led client communication and requirements analysis </b> for key projects, managing project timelines, and mentoring junior developers, resulting in a 25% reduction in feature delivery time.",
-      "<b>Core Developer of RLDataCoach</b>: Developed a coaching algorithm that analyzes Rocket League gameplay, identifying 60+ in-game events per replay. Benchmarked over 20,000 replays to deliver personalized, rank-specific training recommendations.",
-      "<b>E-commerce Platform Optimization</b>: Integrated payment services, campaign modules, and AWS solutions (Lambda, SQS, SNS, S3), driving a 30% increase in sales and improving operational efficiency by 40%",
-      "<b>Designed and maintained</b> Kafka-based event pipelines across <b>microservice systems</b>, enabling scalable, asynchronous communication between distributed services.",
-      "<b>Social Media Platform Enhancement</b>: Upgraded functionality for a volunteer organization's platform, boosting user engagement by 25% and improving platform adoption and user experience."
+      "<b>Designed and maintained</b> a finance and project delivery tool, it's help to identify, unlock, and capitalize on profit levers across your running and upcoming projects for USA marketplace. ",
+      "<b>Conducted research and R&D</b> on various technological topics, preparing detailed reports for clients and the team."
     ],
     technologies: ["C#", "ASP .NET", ".NET Web API", "React", "PostgreSQL", "MongoDB", "AWS"]
   }
