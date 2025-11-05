@@ -85,8 +85,8 @@ const experiences: DetailedExperience[] = [
     technologies: [
       "C#",
       "Dot Net",
-      "Web API",
       "NodeJs",
+      "Web API",
       "MS SQL",
       "Redis",
       "Angular JS",
