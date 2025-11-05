@@ -41,18 +41,18 @@ const experiences: DetailedExperience[] = [
     ],
     challenges: [
       {
-        title: "Performance Optimization",
+        title: "New features delivery on time",
         description:
-          "Certain sections of the application struggled with handling large datasets efficiently, leading to slower response times and impacting user experience.",
+          "As this is their main website, they need each feature as soon as possible based on priority",
         solution:
-          "Optimized queries, applied caching strategies, and refined database indexing—boosting response times by 40%.",
+          "Use LLM tools to deliver features faster",
       },
     ],
     achievements: [
-      "Able to reduced AWS cost by 45%",
-      "Successfully deployed several coaching features",
+      "Able to deliver features on time",
+      "Successfully deployed on cloud platform",
     ],
-    technologies: ["Python", "C#", "Asp .Net", ".Net Web API", "Redis", "PostgreSQL", "NextJS", "Containerization", "AWS"]
+    technologies: ["Python", "PHP", "Laravel", "Vue.js", "Mysql", "AWS"]
   },
   {
     period: "March 2024 — August 2024",
