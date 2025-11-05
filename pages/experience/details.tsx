@@ -24,19 +24,20 @@ interface DetailedExperience {
 
 const experiences: DetailedExperience[] = [
   {
-    period: "November 2024 — Present",
-    company: "AIT",
-    logo: "/images/experiences/ait.jpg",
-    role: "Software Engineer (Remote - Full Time)",
-    companyUrl: "https://www.ait.inc",
+    period: "December 2024 — Aug 2025",
+    company: "Ausis Accommodation Services",
+    logo: "/images/experiences/ausis.png",
+    role: "Freelance Full Stack Software Engineer (Contructual)",
+    companyUrl: "https://www.airpaz.com/en/hotel/ausis-accommodation-services.5377238",
     description: [
-      "Shipping new coaching features for DataCoach while refining the AWS architecture—autoscaling seamlessly and <b>trimming cloud spend by 45%</b>.",
-      "Responsible for implementing enhancements and fixes while maintaining codebase consistency and optimizing queries for large production data.",
+      "Shipping new features for their main website and  automating manual task that <b>reduced manual work by 90%</b>.",
+      "Responsible for implementing enhancements and fixes while maintaining codebase consistency and optimizing queries for large data.",
+      "Techinical support to their existing products and clients.",
     ],
     responsibilities: [
-      "Developed new and maintained features of the DataCoach training platform",
+      "Developed new and maintained features of the main and existing software and tools",
       "Optimized database queries and improved application performance",
-      "Enhanced system monitoring and alerting with Seq and CloudWatch, improving incident response and reducing downtime.",
+      "Enhanced system monitoring, automated manual task and give technical support to their client for smooth operation",
     ],
     challenges: [
       {
@@ -182,7 +183,7 @@ const experiences: DetailedExperience[] = [
     achievements: [
       "Successfully delivered multiple feature enhancements to production",
       "Improved system stability through effective bug fixing and testing",
-      "Streamlined development workflow using Jira and Bitbucket",
+      "Streamlined development workflow using Treelo and Github",
       "Enhanced team collaboration through effective communication channels",
       "Maintained high code quality standards through peer reviews",
       "Optimized database queries for improved performance",
