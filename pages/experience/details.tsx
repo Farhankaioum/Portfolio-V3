@@ -206,59 +206,6 @@ const experiences: DetailedExperience[] = [
     ],
   },
   {
-    period: "February 2021 — April 2022",
-    company: "AIT",
-    logo: "/images/experiences/ait.jpg",
-    role: "Software Engineer - I",
-    companyUrl: "https://www.ait.inc/",
-    description: [
-      "Worked as a full-time software engineer focusing on enterprise application development and maintenance.",
-      "Collaborated with cross-functional teams to deliver high-quality software solutions while ensuring smooth operations.",
-    ],
-    responsibilities: [
-      "Implemented new features and bug fixes in ASP.NET MVC applications",
-      "Participated in daily status meetings and team communications",
-      "Performed root cause analysis and debugging of production issues",
-      "Managed source control and project tracking using industry-standard tools",
-      "Collaborated with team members across different time zones",
-      "Implemented and optimized SQL queries for large datasets",
-      "Applied software design patterns and architectural practices",
-    ],
-    challenges: [
-      {
-        title: "System Enhancement",
-        description:
-          "Needed to implement new features while maintaining existing functionality and ensuring backward compatibility.",
-        solution:
-          "Developed a systematic approach to feature implementation with comprehensive testing and documentation.",
-      },
-      {
-        title: "Issue Resolution",
-        description:
-          "Faced complex production issues requiring quick resolution while maintaining system stability.",
-        solution:
-          "Implemented robust debugging processes and root cause analysis methodologies to ensure efficient problem resolution.",
-      },
-    ],
-    achievements: [
-      "Successfully delivered multiple feature enhancements to production",
-      "Improved system stability through effective bug fixing and testing",
-      "Streamlined development workflow using Treelo and Github",
-      "Enhanced team collaboration through effective communication channels",
-      "Maintained high code quality standards through peer reviews",
-      "Optimized database queries for improved performance",
-    ],
-    technologies: [
-      "C#",
-      "ASP.NET MVC",
-      "ASP.NET Core",
-      ".NET Web API",
-      "MS SQL",
-      "Jira",
-      "Bitbucket",
-    ],
-  },
-  {
     period: "April 2021 — May 2021",
     company: "DevSkill",
     logo: "/images/experiences/devskill.jpeg",
@@ -271,6 +218,7 @@ const experiences: DetailedExperience[] = [
     responsibilities: [
       "Collaborated with development team on DevSkill-v2 platform enhancement",
       "Participated in code reviews and quality assurance processes",
+      "Write unit test to cover all scenarios",
       "Implemented performance optimizations and bug fixes",
       "Wrote and maintained unit tests for code reliability",
       "Followed agile methodologies and SDLC best practices",
@@ -300,21 +248,23 @@ const experiences: DetailedExperience[] = [
     ],
     technologies: [
       "C#",
-      ".NET Core 3.1",
-      "ASP.NET Core",
-      "MS SQL",
+      "Dot NET Core 3.1 MVC",
+      "MSSQL",
       "Unit Testing",
-      "Git",
+      "Git & Tortoise Git",
+      "GitHub & GitHub Project",
+      "Git Flow",
+      "AWS"
     ],
   },
   {
-    period: "December 2020 — January 2021",
+    period: "December 2020 — April 2021",
     company: "AIT",
     logo: "/images/experiences/ait.jpg",
     role: "Software Engineer Intern (Bootcamp)",
     companyUrl: "https://www.ait.inc/",
     description: [
-      "Participated in an intensive bootcamp program focusing on modern web development technologies and best practices.",
+      "Participated in an intensive bootcamp program focusing on modern web and app development technologies and best practices.",
       "Gained hands-on experience with full-stack development through practical projects and team collaboration.",
     ],
     responsibilities: [
@@ -339,11 +289,19 @@ const experiences: DetailedExperience[] = [
         solution:
           "Created structured learning approach and successfully delivered projects in both frameworks.",
       },
+      {
+        title: "Mobile App Design & Development",
+        description:
+          "Develop a simple mobile app using flutter and dart for managing daily workflow",
+        solution:
+          "Learn everything from scratch and deliver a workable demo app with interactive UI",
+      },
     ],
     achievements: [
       "Built e-commerce and social media applications using React and Angular",
       "Successfully integrated React with .NET backend in pet projects",
       "Developed proficiency in C# and .NET Core 3.1",
+      "Design & develop a Mobile app to track everyday activity",
       "Mastered Git workflow and team collaboration practices",
       "Gained practical experience with MSSQL in real-world projects",
     ],
@@ -353,8 +311,11 @@ const experiences: DetailedExperience[] = [
       "MS SQL",
       "React",
       "Angular",
+      "Flutter",
+      "Dart",
       "Git",
       "StackBlitz",
+      "Discord"
     ],
   },
 ];
@@ -366,7 +327,7 @@ const ExperienceDetails = () => {
   return (
     <>
       <Head>
-        <title>Detailed Experience | Md Rakibul Islam</title>
+        <title>Detailed Experience | Md Keiuom Miah</title>
         <meta
           name="description"
           content="Detailed professional experience and achievements"
