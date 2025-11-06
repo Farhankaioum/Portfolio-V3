@@ -19,19 +19,19 @@ const Certifications = () => {
   var certificates = [
     {
       title: "Cloud Computing Fundamental",
-      fileName: "cloud-computing-fundamentals.png",
+      fileName: "ibm_cloud_computing_fundamental_certificate.jpg",
     },
     {
       title: "Asp .NET Full Stack MVC Certificate",
       fileName: "asp.net-mvc-certificate.jpg",
     },
     {
-      title: "Foundational C sharp Certificate(Microsoft)",
-      fileName: "foundational-c-sharp-with-microsoft.png",
+      title: "Modern Jenkins by writing pipeline as code (Jenkinsfile),",
+      fileName: "jenkins.jpg",
     },
     {
-      title: "Linux Essential Course Completion Certificate",
-      fileName: "linux-essential.png",
+      title: "AWS Certified Cloud Practitioner CLF-C02 2025",
+      fileName: "aws_practitioner.jpg",
     },
   ];
 
