@@ -75,6 +75,27 @@ const experiences: DetailedExperience[] = [
       "Conducted code reviews and maintained coding standards",
     ],
     challenges: [
+      {
+        title: "Remove session based authencation",
+        description:
+          "That time we are converting our asp.net webform application to dot net core. Our first baby step was change the authencation system first. Main challenge was remove the existing caching mechanism ",
+        solution:
+          "Successfully implemented JWT based authencation and introduce Redis for caching data",
+      },
+      {
+        title: "Replace all paid packages and developed all packages from scratch in dashboard area",
+        description:
+          "Need to redesign application dashboard and removed all the paid package subsciption to reduce cost. For example: Kendo Grid subscription",
+        solution:
+          "Used Bootstrap tables and vanila js for other functionalities. In that way, we improved the dashboard performance by more than 60%. Previously, we relied on a paid Kendo Grid subscription for this functionality. ",
+      },
+      {
+        title: "Faster Tenant Setup for new client",
+        description:
+          "For our new client demo purposes, we need to setup a new environment. The problem is it took normarlly 1-2 days to setup everything. That was a bit longer waiting time for our new client",
+        solution:
+          "Develop a CI/CD pipeline using jenkins and we can able to setup a new environment within 30 to 60 minutes",
+      },
     ],
     achievements: [
       "Removed session based authentication system and intruduced JWT based authentication",
