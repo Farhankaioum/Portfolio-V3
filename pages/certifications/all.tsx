@@ -19,44 +19,45 @@ const AllCertifications = () => {
   const certificates = [
     {
       title: "Cloud Computing Fundamental",
-      fileName: "cloud-computing-fundamentals.png",
+      fileName: "ibm_cloud_computing_fundamental_certificate.jpg",
     },
     {
       title: "Asp .NET Full Stack MVC Certificate",
       fileName: "asp.net-mvc-certificate.jpg",
     },
     {
-      title: "HackerRank C# Basic Certificate",
-      fileName: "basic-c-sharp-with-hackerrank.png",
+      title: "Modern Jenkins by writing pipeline as code (Jenkinsfile),",
+      fileName: "jenkins.jpg",
     },
     {
-      title: "Foundational C sharp Certificate(Microsoft)",
-      fileName: "foundational-c-sharp-with-microsoft.png",
+      title: "AWS Certified Cloud Practitioner CLF-C02 2025",
+      fileName: "aws_practitioner.jpg",
     },
     {
-      title: "HackerRank SQL Basic Certificate",
-      fileName: "basic-sql-with-hackerrank.png",
+      title: "Web Development Fundamentals",
+      fileName: "Web-Development_Fundamental_page.jpg"
     },
     {
-      title: "HackerRank JavaScript Basic Certificate",
-      fileName: "basic-javascript-with-hackerrank.png",
+      title: "Data Fundamentals",
+      fileName: "IBM_Data-Fundamental.jpg",
     },
     {
-      title: "FreeCodeCampg JavaScript Algorithms and Data Structure",
-      fileName: "javascript-algorithms-and-data-structures.png",
+      title: "Nopcommerce Plugin Development",
+      fileName: "nopcommerce_plugin.jpg",
     },
     {
-      title: "Udemy AWS Course Completion Certificate",
-      fileName: "udemy-aws-course-completion-certificate.jpg",
+      title: "AIT Internship Certificate",
+      fileName: "astha_it_internship.jpg",
     },
     {
-      title: "Linux Essential Course Completion Certificate",
-      fileName: "linux-essential.png",
+      title: "APAC Hackathon Certification",
+      fileName: "hackathon_participation_certificate_SP.jpg",
     },
     {
-      title: "Network Essential Course Completion Certificate",
-      fileName: "network-essential.png",
+      title: "DevSkill Remote Internship Certificate",
+      fileName: "experience_certificate_for_Internship_devskill.jpg",
     },
+
   ];
 
   return (
