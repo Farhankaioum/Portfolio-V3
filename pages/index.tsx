@@ -64,7 +64,7 @@ export default function Home() {
       <Certifications />
       <Contact />
       <div className="mt-20">
-        © {new Date().getFullYear()} Md Keiuom Miah. Made with ♥ in England, United Kingdom.
+        © {new Date().getFullYear()} Md Keiuom Miah. Made with ♥ in Sydney, Australia.
       </div>
     </>
   );
