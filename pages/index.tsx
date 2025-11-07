@@ -12,20 +12,20 @@ export default function Home() {
       <div>
         <Head>
           <title>Md Keiuom Miah - Portfolio</title>
-          <meta property="og:description" content="Welcome to my portfolio! I am a software engineer who builds accessible, inclusive products and digital experiences for the web." />
-          <meta name="keywords" content="portfolio, web developer, Asp dot net developer, dot net developer, software engineer" />
+          <meta property="og:description" content="Welcome to my portfolio! I am a software engineer who builds accessible, inclusive products and digital experiences for the Web and Mobile app." />
+          <meta name="keywords" content="Md Keiuom Miah, Md.Keiuom Miah, Keiuom, portfolio, web developer, Asp dot net developer, dot net developer, software engineer" />
           <meta name="author" content="Md Keiuom Miah" />
           <meta property="og:image" content="https://keiuom.xyz/images/Thumbnail.jpeg" />
           <meta property="og:image:type" content="image/jpeg" />
           <meta property="og:image:alt" content="Summary Image" />
-          <meta property="og:site_name" content="Ismael's Portfolio" />
+          <meta property="og:site_name" content="Keiuom's Portfolio" />
           <meta property="og:url" content="https://keiuom.xyz" />
           <meta property="og:title" content="Md Keiuom Miah - Portfolio" />
           <meta property="og:type" content="website" />
           <meta property="og:locale" content="en_IE" />
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:image:alt" content="Backend Engineer" />
-          <meta name="twitter:description" content="Welcome to my portfolio! I am a software engineer who builds accessible, inclusive products and digital experiences for the web and app." />
+          <meta name="twitter:description" content="Welcome to my portfolio! I am a software engineer who builds accessible, inclusive products and digital experiences for the Web and Mobile app." />
           <meta name="twitter:image" content="https://keiuom.xyz/images/Thumbnail.jpeg" />
           <link rel="shortcut icon" href="/favicon/apple-touch-icon.jpg" />
           <link

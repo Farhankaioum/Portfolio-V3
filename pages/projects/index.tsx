@@ -3,8 +3,8 @@ import Image from "next/image";
 
 const highlightedProjects = [
   {
-    title: 'RL-DataCoach',
-    description: 'RLDataCoach is a powerful tool for Rocket League players, offering personalized feedback by analyzing replays against a benchmark of 20,000+ games. It identifies key improvement areas from 60+ in-game events, providing targeted training to help players enhance skills and rank up efficiently without generic guides or coaching sessions.',
+    title: 'Accommodation System',
+    description: '',
     thumbnailFileName: 'rl-datacoach.png',
     link: 'https://rldatacoach.com'
   },
