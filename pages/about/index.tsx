@@ -12,7 +12,7 @@ const About = () => {
       </div>
       <div>
         <p className="mb-4 text-justify">
-          I am a passionate Software Engineer with 4+ years of experience. Currently, pursuing my Master&aposs degree in Sydney, Australia, with expected graduation in June 2026. My professional journey began at {" "}
+          I am a passionate Software Engineer with 4+ years of experience. Currently, pursuing my Master&apos;s degree in Sydney, Australia, with expected graduation in June 2026. My professional journey began at {" "}
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
             href="https://www.ait.inc/"
@@ -82,7 +82,7 @@ const About = () => {
           >
             Substack.
           </a>{" "}
-          Outside of technology, I&aposm an athlete who enjoys football and badminton.
+          Outside of technology, I&apos;m an athlete who enjoys football and badminton.
         </p>{" "}
         <p className="mb-4 text-justify">
           {" "}

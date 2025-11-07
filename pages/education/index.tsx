@@ -29,7 +29,7 @@ const Education = () => {
                     >
                       <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                       <span>
-                        King &aposs Own Institute
+                        King&apos;s Own Institute
                         <span className="inline-block">
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
