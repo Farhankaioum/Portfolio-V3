@@ -3,10 +3,16 @@ import Image from "next/image";
 
 const highlightedProjects = [
   {
+    title: 'SpendPlan',
+    description: 'Budget & Cost prediction tool. SpendPlan empower finance and project delivery teams — designed to help business identify, unlock, and capitalize on profit levers on all of your projects.',
+    thumbnailFileName: 'spendplan.png',
+    link: 'https://www.spendplan.com/'
+  },
+  {
     title: 'Accommodation System',
-    description: '',
-    thumbnailFileName: 'rl-datacoach.png',
-    link: 'https://rldatacoach.com'
+    description: 'A comprehensive Australian property platform offering a wide range of student-friendly and professional rental listings, helping users search, select, and book accommodations efficiently in major locations.',
+    thumbnailFileName: 'ausis.png',
+    link: 'https://ausisaccommodation.com.au/'
   },
   {
     title: 'BrandShare',
@@ -15,19 +21,7 @@ const highlightedProjects = [
     link: 'https://dellshare.com'
   },
   {
-    title: 'Apex4u',
-    description: 'Apex is a brand that offers a wide range of footwear, clothing and accessories for men, women and kids. Apex4u.com is designed to provide customers a universal digital experience: accessible, responsive and most of all, easy to evolve and scale.',
-    thumbnailFileName: 'apex.png',
-    link: 'https://apex4u.com'
-  },
-  {
-    title: 'StrataSpot',
-    description: 'Strataspot is a cloud based app that allows residents, owners and building managers to connect with ease. From simple maintenance requests to noticeboards, every party has access to all the information they require at the tip of their fingers.',
-    thumbnailFileName: 'strataspot.jpg',
-    link: 'https://strataspot.com.au'
-  },
-  {
-    title: 'Transcom Digital',
+    title: 'Transcom Digital Mobile app',
     description: 'Transcomdigital.com is #1 online shopping platform in Bangladesh offering premium quality and best online experience to purchase Original Electronic Appliances. You can find almost all kind of electronics solution for your home.',
     thumbnailFileName: 'transcomdigital.jpg',
     link: 'https://transcomdigital.com'
