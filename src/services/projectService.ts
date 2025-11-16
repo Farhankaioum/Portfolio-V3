@@ -76,7 +76,7 @@ export class ProjectService {
             conditions.push(orderBy(orderField, orderDirection));
             if (queryLimit) conditions.push(limit(queryLimit));
 
-            q = query(q, ...conditions);
+            let qa = query(q, ...conditions);
 
             const querySnapshot = await getDocs(q);
             const projects: Project[] = querySnapshot.docs.map(doc => ({
