@@ -133,8 +133,8 @@ export class ExperienceService {
             endDate: new Date('2025-08-31'),
             current: false,
             featured: true,
-            createdAt: new Date(),
-            updatedAt: new Date()
+            //createdAt: new Date(),
+            //updatedAt: new Date()
         };
     }
 
